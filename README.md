@@ -14,7 +14,7 @@ Utilizei apenas o Gemini.
 Utilizei uma foto minha como base, e através de um prompt, solicitei ao Gemini que criasse uma imagem onde eu estivesse no meio da torcida do São Paulo.
 
 ## 🚀 Resultados
-<img width="747" height="1024" alt="WhatsApp Image 2026-04-22 at 23 00 45" src="https://github.com/user-attachments/assets/891805f4-41f5-4feb-800e-f2e1035cdd05" />
+
 
 
 
