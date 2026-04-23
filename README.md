@@ -14,9 +14,7 @@ Utilizei apenas o Gemini.
 Utilizei uma foto minha como base, e através de um prompt, solicitei ao Gemini que criasse uma imagem onde eu estivesse no meio da torcida do São Paulo.
 
 ## 🚀 Resultados
-
-
-
+imagem_naty.jpeg
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
